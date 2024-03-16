@@ -23,7 +23,7 @@
 
 <h2>⚒️ Tools and technologies I'm studying now:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git,figma)](https://skillicons.dev)
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
