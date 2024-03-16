@@ -24,11 +24,4 @@
 <h2>⚒️ Tools and technologies I'm studying now:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,git,figma)](https://skillicons.dev)
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
 <br>
